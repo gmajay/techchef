@@ -1,7 +1,6 @@
 #!/bin/bash
 #moving the file to dist dir and scheduling in jenkins
-#testing poll scm 
-
+#testing poll to check 
 
 
 FILE="./target/techchef-1.0.jar"
